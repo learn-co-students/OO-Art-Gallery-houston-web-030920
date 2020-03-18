@@ -4,7 +4,7 @@ In this project, we will be practicing object relationships in Ruby, with a part
 
 ### Introduction
 
-You got yourself a fancy new job and you've been put in charge of making a program to keep track of paintings, and the galleries that are selling them them.  
+You got yourself a fancy new job and you've been put in charge of making a program to keep track of paintings, and the galleries that are selling them.  
 
 Each painting has a price, and a title.  Each artist has a name and an amount of years of experience, and each gallery has a name and a city.
 
